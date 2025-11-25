@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 
-My research interests are broadly in the theory, design and control of physical systems that can represent and manipulate coherent quantum information.
+I am a student at UChicago studying CS, math and physics.
 
-When I am not doing research, I am often found reading, in nature, or eating vegetables, occasionally all at once.
+My research interests are broadly in quantum computing theory, with a focus on connections to real-world experiments.
 
-Lately I have mostly been preparing PhD applications.
+When I am not doing research, I am often found reading, in nature, or with friends, occasionally all at once.
+
+Lately I've been mostly applying to PhD programs.
