@@ -9,5 +9,7 @@ redirect_from:
 
 
 My research interests are broadly in the theory, design and control of physical systems that can represent and manipulate coherent quantum information.\
+
 When I am not doing research, I am often found reading, in nature, or eating vegetables, occasionally all at once.\
+
 But lately, I have mostly been preparing for PhD applications.
