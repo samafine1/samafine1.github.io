@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
+My research interests are broadly in the theory, design and control of physical systems that can represent and manipulate coherent quantum information.
+
+When I am not studying, I am often found reading, in nature, or eating vegetables, occasionally all at once.
+
 I have always imagined that Paradise will be a kind of library. - Borges
 
 
