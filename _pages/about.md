@@ -14,4 +14,4 @@ My research interests are broadly in quantum computing theory, with a focus on c
 
 When I am not doing research, I am often found reading, in nature, or with friends, occasionally all at once.
 
-Lately I've been mostly applying to PhD programs.
+Lately I've mostly been applying to PhD programs.
