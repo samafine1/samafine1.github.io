@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-I am a student at UChicago studying CS, math and physics.
+I do research in quantum error correction and control. 
 
-My research interests are broadly in quantum computing theory, with a focus on connections to real-world experiments.
-
-When I am not doing research, I am often found reading, in nature, or with friends, occasionally all at once.
+Beyond research, I love to read, hike, and bike.
